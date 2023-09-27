@@ -34,7 +34,7 @@ const Home: React.FC<PageProps> = () => {
           <p className="lead">Share your broadcast quality TV clip created with ClipShare.</p>
           <h2 className="text-2xl mb-3">Instructions</h2>
           <ol className="list-none flex flex-col gap-1 p-0 m-0">
-            <li className="m-0 p-0">Tap the SnapOdds button.</li>
+            <li className="m-0 p-0">Tap the “Snap TV” button.</li>
             <li className="m-0 p-0">Take a photo of the full TV picture.</li>
           </ol>
           <figure>

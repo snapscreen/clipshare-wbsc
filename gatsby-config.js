@@ -13,11 +13,11 @@ module.exports = {
   plugins: ["gatsby-plugin-postcss", "gatsby-plugin-image", {
     resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `ClipShare`,
-        short_name: `ClipShare`,
+        name: `WBSC ClipShare`,
+        short_name: `WBSC`,
         start_url: `/`,
-        background_color: `#00172e`,
-        theme_color: `#f7a600`,
+        background_color: `#15253e`,
+        theme_color: `#15253e`,
         display: `minimal-ui`,
         icon: `src/images/ClipShare_Icon.svg`, // This path is relative to the root of the site.
       }

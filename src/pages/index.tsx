@@ -66,7 +66,7 @@ const Home: React.FC<PageProps> = () => {
             </svg>
           </figure>
         </article>
-        <div className="sticky bottom-0 -mx-4 p-4 bg-white/80 backdrop-blur-lg">
+        <div className="sticky bottom-0 -mx-4 p-4 bg-white/80 dark:bg-black/80 backdrop-blur-lg">
           <Button styleType="primary" onClick={startClipShare} className="w-full">
             Snap TV
           </Button>

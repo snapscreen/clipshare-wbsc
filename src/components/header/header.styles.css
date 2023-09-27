@@ -1,7 +1,6 @@
 .headerWrapper {
   @apply sticky top-0 z-20;
   @apply bg-skin-header;
-  @apply border-b border-skin-base-muted;
 }
 
 .header {

@@ -3,7 +3,7 @@
 Reach ClipShare WBSC demo via https://wbsc.clipshare.tv
 The website is hosted on netlify and built with GatsbyJS.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7c0e857a-d309-4f4c-9aa6-6fc10fb16594/deploy-status)](https://app.netlify.com/sites/clipshare-demo/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/820d853d-a09d-4538-9985-792e7429211c/deploy-status)](https://app.netlify.com/sites/clipshare-wbsc/deploys)
 
 ## Development Stack
 

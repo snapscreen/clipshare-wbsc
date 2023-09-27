@@ -7,11 +7,11 @@ interface PageProps {
 }
 
 const Home: React.FC<PageProps> = () => {
-  const siteTitle = `Welcome`;
+  const siteTitle = `WBSC ClipShare`;
 
-    function fetchAccessTokenFromApi() {
-        return fetch('/api/token', { mode: 'cors', cache: 'no-cache' }).then((response) => response.json());
-    }
+  function fetchAccessTokenFromApi() {
+      return fetch('/api/token', { mode: 'cors', cache: 'no-cache' }).then((response) => response.json());
+  }
 
   const startClipShare = () => {
       SnapoddsSdk.clipShareBuilder()

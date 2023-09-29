@@ -1,4 +1,5 @@
 import React from "react";
+import { OutboundLink } from "gatsby-plugin-google-gtag";
 
 import "./footer.styles.css";
 
@@ -9,7 +10,9 @@ export const Footer: React.FC<FooterProps> = () => {
   return (
     <footer className="footer">
       ClipShare is a product by {' '}
-      <a href="http://snapscreen.com" target="_blank">Snapscreen</a>.
+      <OutboundLink href="http://snapscreen.com" target="_blank">
+        Snapscreen
+      </OutboundLink>.
     </footer>
   );
 };

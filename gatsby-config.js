@@ -8,7 +8,7 @@ require("dotenv").config({
 module.exports = {
   siteMetadata: {
     title: `Clipshare`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://wbsc.clipshare.tv`
   },
   plugins: ["gatsby-plugin-postcss", "gatsby-plugin-image", {
     resolve: `gatsby-plugin-manifest`,

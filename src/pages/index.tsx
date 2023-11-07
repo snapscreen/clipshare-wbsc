@@ -33,6 +33,7 @@ const Home: React.FC<PageProps> = () => {
           <h1 className="sr-only"></h1>
           <p className="lead">Share your broadcast quality TV clip created with ClipShare.</p>
           <p className="maintenance">We hope you enjoyed sharing your WBSC Clips - we will be back for more games.</p>
+        </article>
     </Layout>
   );
 };
